@@ -1,14 +1,12 @@
 body {
-    
-}
+    /* background-image: url('../images/nature.jpg'); */
+    /* background-repeat: no-repeat; */
+  }
 
 nav{
     background-color: black;
 }
 
-.sidenav {
-    background-color: black;
-}
 
 .message {
     padding: 20px;
