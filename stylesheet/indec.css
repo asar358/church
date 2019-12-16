@@ -2,7 +2,11 @@ body {
     
 }
 
-.nav-wrapper {
+nav{
+    background-color: black;
+}
+
+.sidenav {
     background-color: black;
 }
 
