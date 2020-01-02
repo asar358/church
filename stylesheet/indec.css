@@ -4,11 +4,43 @@ body {
   }
 
 nav{
-    background-color: black;
+    background-color: #009fff;
 }
 
 
 .message {
     padding: 20px;
     text-align: center;
+    font-family: 'Lobster', cursive;
+}
+
+.pastor{
+    border-radius: 50%;
+    
+}
+
+img {
+    border-radius: 50%;
+  }
+
+.about {
+    text-align: center;
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+.other {
+    text-align: center;
+}
+
+#days {
+    font-size: 30px;
+}
+
+.brand-logo {
+    font-size: 10px;
+}
+
+.fb-video {
+    margin-left: 20px;
 }
