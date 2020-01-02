@@ -56,3 +56,21 @@ img {
         margin: auto;
     }
   }
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    
+    .about{
+        text-align: center;
+        margin: auto;
+    }
+  }
+
+  @media only screen and (max-width: 800px) {
+    /* For mobile phones: */
+    
+    .about{
+        text-align: center;
+        margin: auto;
+    }
+  }
