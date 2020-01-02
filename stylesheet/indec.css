@@ -55,6 +55,10 @@ img {
         text-align: center;
         margin: auto;
     }
+
+    #days {
+        font-size: 20px;
+    }
   }
 
   @media only screen and (max-width: 768px) {
@@ -63,6 +67,10 @@ img {
     .about{
         text-align: center;
         margin: auto;
+    }
+
+    #days {
+        font-size: 20px;
     }
   }
 
