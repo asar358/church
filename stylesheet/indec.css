@@ -41,7 +41,7 @@ img {
     font-size: 10px;
 }
 
-.fb-video {
+#video {
     display: flex;
     flex-direction: column;
     align-items: center;
