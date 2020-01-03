@@ -18,6 +18,10 @@ nav{
     border-radius: 50%;
     
 }
+.head {
+    text-align: center;
+    font-family: 'Lobster', cursive;
+}
 
 #pastor {
     border-radius: 50%;
@@ -72,6 +76,9 @@ nav{
         margin: auto;
 
     }
+    .head {
+        font-size: 15px;
+    }
 
     #days {
         font-size: 20px;
@@ -84,6 +91,9 @@ nav{
     .about{
         text-align: center;
         margin: auto;
+    }
+    .head {
+        font-size: 15px;
     }
 
     #days {
@@ -100,5 +110,8 @@ nav{
     }
     #days {
         font-size: 20px;
+    }
+    .head {
+        font-size: 15px;
     }
   }
